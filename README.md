@@ -49,6 +49,6 @@ The data agent can answer questions such as:
 This project was created to demonstrate how Databricks Data Agents can transform structured data into interactive, conversational analytics, making it easier for users to explore and understand their data.
 
 ## Author
-**StPrecious El-Greene**
+**Lesoka Precious Tala**
 
 Learning Data Analytics | SQL | Databricks | AI | GitHub
