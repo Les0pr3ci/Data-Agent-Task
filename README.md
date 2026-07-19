@@ -31,11 +31,13 @@ The project uses two datasets:
 ## Example Questions
 The data agent can answer questions such as:
 
-- Which users have the highest viewership?
-- What are the most popular viewing categories?
-- How does viewership vary across different user groups?
-- What trends can be identified from the data?
-- Which users are the most active?
+-How many unique subscribers are in the User Profile dataset?
+-How many viewing sessions are recorded in the Viewership dataset
+-Which channel has the highest total watch time?
+-Which gender watches the most content?
+-What are the top five most-watched channels?
+-Which hour of the day has the highest viewing activity?
+
 
 ## Repository Structure
 ```
